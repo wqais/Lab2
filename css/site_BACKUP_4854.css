@@ -44,7 +44,11 @@
         }
 
         .next-steps-header {
+<<<<<<< HEAD
+            font-size: 30px;
+=======
             font-size: 26px;
+>>>>>>> branch2
             line-height: 28px;
             padding-bottom: 25px;
         }
